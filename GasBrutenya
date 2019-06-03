@@ -1,4 +1,4 @@
-import platform,os,sys
+import platform,os,sy
 def cetak(x,e=0):
 	w = 'mhkbpcP'
 	for i in w:
